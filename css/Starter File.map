@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "Starter File.css",
+	"sources": [
+		"../SCSS/Starter File.scss"
+	],
+	"sourcesContent": [
+		"// Test File for SCSS"
+	],
+	"names": [],
+	"mappings": ""
+}
